@@ -34,3 +34,13 @@ Les données sont stockées localement via `localStorage`.
 4. **Interface Utilisateur** :
     - Simple et fonctionnelle, construite en HTML et CSS.
     - Dynamisme géré avec TypeScript.
+  
+--
+
+## Installation
+
+Installer les dépendances : npm i
+
+Compiler le TypeScript : Utilisez le compilateur TypeScript pour transformer les fichiers .ts en .js : npm run start
+
+Lancer l'application : Ouvrez le fichier index.html dans votre navigateur.
